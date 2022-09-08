@@ -27,4 +27,6 @@ int main()
 
   // is the stack empty
   cout << "isEmpty: " << s.empty() << endl;
+
+  return 0;
 }
