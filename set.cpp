@@ -40,4 +40,7 @@ int main()
   {
     cout << *it << " ";
   } cout << endl;
+
+  return 0;
+  
 }

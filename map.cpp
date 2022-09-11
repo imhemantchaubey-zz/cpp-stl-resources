@@ -36,4 +36,7 @@ int main()
   {
     cout << "dob: " << (*i).first << endl;
   }
+
+  return 0;
+
 }
